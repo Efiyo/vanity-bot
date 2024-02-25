@@ -1,7 +1,9 @@
 # vanity-bot
-My private simple python bot that I made to learn the language
+My personal simple python bot that I made to learn the language
 
 --------
+
+Clone the repo with ```git clone https://github.com/Efiyo/vanity-bot.git```
 
 Install requirements from requirements.txt via ```pip```
 
