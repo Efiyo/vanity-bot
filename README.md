@@ -5,7 +5,7 @@ My personal simple python bot that I made to learn the language
 
 Clone the repo with ```git clone https://github.com/Efiyo/vanity-bot.git```
 
-Install requirements from requirements.txt via ```pip -r requirements.txt```
+Install requirements from requirements.txt via ```pip install -r requirements.txt```
 
 note that ```neofetch``` is also required for 1 command to function
 
